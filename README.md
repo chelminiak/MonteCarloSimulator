@@ -1,6 +1,6 @@
 # MonteCarloSimulator
 
-A library for ns-3 extending the simulator with the possibility to conduct Monte Carlo simulations. This library was developed for version 3.38 of the ns-3 simulator.
+A library for ns-3 extending the simulator with the possibility to conduct Monte Carlo simulations. This library was developed for version 3.38 of the ns-3 simulator. On overview of the library and example results can be found in the included [thesis](https://github.com/chelminiak/MonteCarloSimulator/blob/main/Implementation%20and%20Analysis%20of%20a%20Monte%20Carlo%20Simulator%20Extension%20for%20ns-3.pdf).
 
 # Building the module
 0. Install ns-3.38 as per instructions in the [official documentation](https://www.nsnam.org/documentation/).
